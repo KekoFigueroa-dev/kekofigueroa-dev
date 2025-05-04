@@ -1,3 +1,5 @@
 #  Hi there I'm Keko 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekofigueroa-dev&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img  alt="mystats" src="https://github-readme-stats.vercel.app/api?username=kekofigueroa-dev&show_icons=true"/>
+
+<img  alt="toplanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kekofigueroa-dev&layout=compact"/>
