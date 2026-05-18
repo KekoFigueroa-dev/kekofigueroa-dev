@@ -4,4 +4,5 @@ Stripe | Fintech Ops + Data. Python + SQL for payments analytics, monitoring, an
 
  -> LinkedIn: https://www.linkedin.com/in/sergio-figueroa-98a9112b4/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KekoFigueroa-dev&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KekoFigueroa-dev&theme=dark)](https://git.io/streak-stats)
