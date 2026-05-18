@@ -1,7 +1,7 @@
 #  Hi there I'm Keko 👋
 
-“Fintech Ops & Data specialist Currently working as a Data Analyst at Stripe | Python, SQL, payments. On GH Building projects around data, APIs and finance.” 
+Stripe | Fintech Ops + Data. Python + SQL for payments analytics, monitoring, and automation (pipelines, detection, RCA tooling). I also orchestrate AI agents to ship end-to-end—planning, implementation support, debugging, and documentation—so projects move from idea → working code. Bioinformathics major, self-made dev. Nice to Meet you! Lets Connect! 
 
-<img  alt="mystats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kekofigueroa-dev&show_icons=true"/>
+ -> LinkedIn: https://www.linkedin.com/in/sergio-figueroa-98a9112b4/
 
-<img  alt="toplanguages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kekofigueroa-dev&layout=compact"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kekofigueroa-dev)](https://github.com/kekofigueroa-dev/github-readme-stats)
